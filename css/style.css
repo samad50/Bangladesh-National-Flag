@@ -1,0 +1,53 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1, h1, h3, h4, h5, h6{
+	font-family: sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.square{
+	width: 400px;
+	height: 200px;
+	background: green;
+	margin: 100px 400px;
+	position: relative;
+}
+.circle{
+	width: 150px;
+	height: 150px;
+	background: red;
+	border-radius: 100%;
+	position: absolute;
+	margin:25px 25px 0px 130px;
+}
+.bamboo{
+	width: 10px;
+	height: 450px;
+	background: black;
+}
+.upper{
+	width: 50px;
+	height: 10px;
+	background: blue;
+	margin-left: -20px;
+}
+.middle{
+	width: 70px;
+	height: 10px;
+	margin-left: -30px;
+	background:#7cbb00;
+}
+.down{
+width: 90px;
+	height: 10px;
+	margin-left: -40px;
+	background:#7B0099;
+}
